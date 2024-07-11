@@ -1,0 +1,5 @@
+# TODO:
+0: Ld,Sd 1
+1: Add,Addi,Sub,Bne,Beq 1
+2: Add.d,Sub.d 4
+3: Mult.d,Div 15

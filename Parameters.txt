@@ -1,0 +1,5 @@
+number_of_registers: 32
+instruction_window_size: 4
+fp_mul_RS_size: 2
+fp_add_RS_size: 3
+int_add_RS_size: 4
